@@ -1,1 +1,33 @@
+INTRODUCTION TO UNIX:
+Unix is a multi-user, multitasking operating system (OS) that controls hardware and software, allocates resources, and schedules tasks.
+Unix is designed for flexibility and adaptability, and offers portability, stability, and interoperability across a range of device types and environments.
+It's made up of three parts:
+The kernel
+The hub of the operating system, it allocates time and memory to programs and handles the filestore and communications.
+Shell
+Interprets commands and calls the desired program. The shell uses standard syntax for all commands.
+Commands and Utilities
+There are over 250 standard commands, plus numerous others provided through third-party software. Commands and utilities include cp, mv, cat, and grep
+
+COMMANDS of unix
+ls: Lists the contents of the current directory.
+cd: Changes the current directory.
+pwd: Prints the working directory.
+mkdir: Creates a new directory.
+rmdir: Removes an empty directory.
+touch: Creates a new file or updates the timestamp of an existing file.
+cp: Copies a file or directory.
+mv: Moves a file or directory.
+rm: Removes a file or directory.
+cat: Concatenates files and prints them to stdout.
+grep: Searches for a pattern in a file or files.
+head: Prints the first few lines of a file.
+tail: Prints the last few lines of a file.
+sort: Sorts the lines of a file.
+uniq: Removes duplicate lines from a file.
+wc: Counts the number of lines, words, and characters in a file.
+find: Searches for files and directories that meet a certain criteria.
+tar: Creates and manages archive files.
+gzip: Compresses files.
+unzip: Decompresses files.
 
